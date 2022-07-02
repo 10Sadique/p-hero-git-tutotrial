@@ -2,3 +2,6 @@ body {
     background-color: #EEEEEE;
     color: black;
 }
+img {
+    width: 100vw;
+}
